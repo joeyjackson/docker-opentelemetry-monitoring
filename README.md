@@ -6,5 +6,6 @@ Adapted from:
 * https://github.com/grafana/tempo/tree/main/example/docker-compose/otel-collector
 
 Backends:
-* Jaeger at http://localhost:16686
+* Grafana at http://localhost:3000
 * Prometheus at http://localhost:9090
+* Jaeger at http://localhost:16686
